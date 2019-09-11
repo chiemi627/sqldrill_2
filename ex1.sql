@@ -1,3 +1,3 @@
-select *
-from members
-where age < 43
+# == Exercise 1 ==
+# 43才以下のメンバーの名前を求めよ
+# この下の行にSQL文を書きましょう。

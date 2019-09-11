@@ -1,4 +1,4 @@
 [
-   { "name": "ayumi", "age": 42 },
-   { "name": "kengo", "age": 3 }
+   { "name": "ayumi" },
+   { "name": "kengo" }
 ]
