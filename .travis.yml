@@ -2,5 +2,5 @@ language: node_js
 node_js:
   - 12
 install:
-  - npm install -g sqlite3 --save
-  - npm install -g mocha
+  - npm install sqlite3 --save
+  - npm install mocha
