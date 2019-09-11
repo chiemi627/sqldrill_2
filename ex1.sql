@@ -1,2 +1,3 @@
-SELECT * 
-FROM members
+select *
+from members
+where age < 43
